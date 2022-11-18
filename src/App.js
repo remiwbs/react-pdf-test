@@ -1,5 +1,7 @@
+import PDFTest from "./components/PDFTest";
+
 function App() {
-  return <div>hello</div>;
+  return <PDFTest />;
 }
 
 export default App;
